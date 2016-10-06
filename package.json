@@ -1,6 +1,6 @@
 {
   "name": "@socfafbmtags/bm-tags",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bmTags directive",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
     "bt-tags"
   ],
   "author": "DumanBi",
-  "url" : "https://github.com/DumanBi/bm-tags",
-  "email" : "bidumsa@gmail.com",
+  "url": "https://github.com/DumanBi/bm-tags",
+  "email": "bidumsa@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
