@@ -9,7 +9,7 @@
   "authors": "DumanBi",
   "license": "ISC",
   "keywords": "bmTags",
-  "homepage": "https://github.com/DumanBi/bm-tags.git",
+  "homepage": "git://github.com/DumanBi/bm-tags.git",
   "ignore": [
     "**/.*",
     "node_modules",
