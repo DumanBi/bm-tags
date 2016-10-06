@@ -7,7 +7,7 @@
     .module('soc-faf-bmTags')
     .directive('bmTags', bmTags);
 
-  function bmTags(AppModel) {
+  function bmTags() {
     var directive = {
       restrict: 'E',
       templateUrl: 'tags.directive.html',
