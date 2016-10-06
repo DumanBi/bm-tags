@@ -1,7 +1,7 @@
 {
-  "name": "@socfafbmform/bm-from",
+  "name": "@socfafbmtags/bm-tags",
   "version": "0.0.1",
-  "description": "bmForm directive",
+  "description": "bmTags directive",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,10 @@
     "patch": "npm version patch -m \"Patch v%s\" && npm publish && git push --follow-tags"
   },
   "keywords": [
-    "bt-form"
+    "bt-tags"
   ],
   "author": "DumanBi",
-  "url" : "https://github.com/DumanBi/bm-form", 
+  "url" : "https://github.com/DumanBi/bm-tags",
   "email" : "bidumsa@gmail.com",
   "license": "ISC",
   "devDependencies": {
